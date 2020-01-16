@@ -1,0 +1,28 @@
+h1{
+    font-family:Verdana, Geneva, sans-serif;
+}
+a{
+    font-family:Verdana, Geneva, sans-serif;
+    
+    text-decoration: none;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: #00f00f;
+    text-decoration: underline;
+}
+a:active{
+    color: red;
+    text-decoration: underline;
+}
+table{
+    border-color:black;
+}
+button{
+    white-space: pre;
+}

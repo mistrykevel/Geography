@@ -4,3 +4,8 @@ h1{
 p{
     font-family:Verdana, Geneva, sans-serif;
 }
+img{
+    width: 281px;
+    height: 281px;
+    float: right;
+}
