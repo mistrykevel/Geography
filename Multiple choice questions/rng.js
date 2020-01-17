@@ -25,7 +25,7 @@ function generate(){
     a = document.getElementById("questions").innerHTML = "If there are 58 305 immigrants coming to a country of 1 593 502 people, what is the immigration rate?" + "<br/>" + "a)34.76" + "<br/>" + "b)36.59" + "<br/>" + "c)38.32" + "<br/>" + "d)35.73"/*36.59*/
     }
     else if(b == 9){
-    a = document.getElementById("questions").innerHTML = "If there are 20 439 people leaving a country of 1 583 053, what is the death rate?" + "<br/>" + "a)11.83" + "<br/>" + "b)12.62" + "<br/>" + "c)12.62" + "<br/>" + "d)12.91"/*12.91*/
+    a = document.getElementById("questions").innerHTML = "If there are 20 439 people leaving a country of 1 583 053, what is the emigration rate?" + "<br/>" + "a)11.83" + "<br/>" + "b)12.62" + "<br/>" + "c)12.62" + "<br/>" + "d)12.91"/*12.91*/
     }
     else if(b == 10){
     a = document.getElementById("questions").innerHTML = "If the immigration rate is 25.26 and the emigration rate is 19.38, what is the net migration rate" + "<br/>" + "a)5.88" + "<br/>" + "b)5.20" + "<br/>" + "c)4.84" + "<br/>" + "d)6.52"/*5.88*/
