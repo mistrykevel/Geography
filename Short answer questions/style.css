@@ -9,3 +9,26 @@ img{
     height: 281px;
     float: right;
 }
+button{
+    
+    color: white;
+    border-width: 1px;
+    background-color: black;
+    height: 50px;
+    width: 150px;   
+    font-size: 20px;
+    font-family: Cambria,Georgia,serif;
+    border-color: black;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+button:hover{
+    
+    color: black;
+    background-color: white;
+}
+button:active{
+    color: white;
+    background-color: black;
+}
+

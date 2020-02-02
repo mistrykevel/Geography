@@ -3,7 +3,6 @@ h1{
 }
 a{
     font-family:Verdana, Geneva, sans-serif;
-    
     text-decoration: none;
 }
 a:link{
@@ -19,10 +18,4 @@ a:hover{
 a:active{
     color: red;
     text-decoration: underline;
-}
-table{
-    border-color:black;
-}
-button{
-    white-space: pre;
 }
